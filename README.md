@@ -4,3 +4,4 @@
 Я Razoritto делаю strrchr
 Я kotaa2 strchr - она занята уже
 Я vladislav35 strcpy
+Я EldarBenkl делаю memchr
