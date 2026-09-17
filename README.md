@@ -12,4 +12,4 @@
 Я liniasi делаю strcmp
 >>>>>>> beed2f9a16dbc3e2d6f4042c802374ff11e5b2df
 Я DIBog20082 делаю strncmp
-Я Loiokf делаю strcmp
+Я Loiokf делаю strcpy
