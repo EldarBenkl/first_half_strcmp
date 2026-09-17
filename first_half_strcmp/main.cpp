@@ -6,11 +6,6 @@
 char* strrchr(const char* str, int ch);
 
 int main(){
-    char input[] = "/home/user/hello.c";
-    char* output = strrchr(input, '/');
-    if (output)
-        std::cout << output + 1 << '\n';
-    return 0;
 }
 
 
