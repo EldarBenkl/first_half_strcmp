@@ -13,3 +13,4 @@
 >>>>>>> beed2f9a16dbc3e2d6f4042c802374ff11e5b2df
 Я DIBog20082 делаю strncmp
 Я Loiokf делаю strcpy
+Я n1bl2 делаю strstr
