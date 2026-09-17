@@ -6,3 +6,4 @@
 Я vladislav35 strcpy
 Я yadiamond strncpy
 Я mishanya-fila делаю strncat
+Я DIBog20082 делаю strncmp
