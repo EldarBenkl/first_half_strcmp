@@ -1,25 +1,7 @@
 #include <iostream>
-char* strcat(char* dest, const char* src) {
-    char* ptr = dest;
-
-    while (*ptr != '\0') {
-        ptr++;
-    }
-
-    while (*src != '\0') {
-        *ptr = *src;
-        ptr++;
-        src++;
-    }
-
-    *ptr = '\0';
-
-    return dest;
-}
-
-
 
 char* strrchr(const char* str, int ch);
+char* strcat(char* dest, const char* src);
 
 int main(){
 }
@@ -37,4 +19,22 @@ char* strrchr(const char* str, int ch){
         return (char*)str;
     }    
     return (char*)l;
+}
+
+char* strcat(char* dest, const char* src) {
+    char* ptr = dest;
+
+    while (*ptr != '\0') {
+        ptr++;
+    }
+
+    while (*src != '\0') {
+        *ptr = *src;
+        ptr++;
+        src++;
+    }
+
+    *ptr = '\0';
+
+    return dest;
 }
