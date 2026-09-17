@@ -15,3 +15,4 @@
 Я Loiokf делаю strcpy
 Я n1bl2 делаю strstr
 Я Wilnus делаю strcspn
+Я EldarBenkl делаю strlen
